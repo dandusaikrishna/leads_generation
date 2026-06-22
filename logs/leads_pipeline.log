@@ -110,3 +110,78 @@
 2026-06-23 00:36:54,555 [WARNING] leads_pipeline: Error building model for Full Stack Engineer Jobs in India - 2026 - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
 2026-06-23 00:36:54,555 [WARNING] leads_pipeline: Error building model for Remote Full-Stack Developer Jobs in India - Crossover: Company.__init__() missing 1 required positional argument: 'company_name'
 2026-06-23 00:36:54,556 [WARNING] leads_pipeline: Error building model for Full Stack Developer jobs - Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
+[2026-06-23 02:28:35,689] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com/in "Apxor | World's First Digital Nudging Platform for Apps" ("Founder" OR "CEO" OR "CTO" OR "VP" OR "Head of" OR "Director" OR "Manager" OR "Engineer" OR "HR" OR "Recruiter")': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:28:44,513] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com/in "Apxor Reviews 2026: Details, Pricing, & Features | G2" ("Founder" OR "CEO" OR "CTO" OR "VP" OR "Head of" OR "Director" OR "Manager" OR "Engineer" OR "HR" OR "Recruiter")': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:28:54,477] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com/in "Apxor - 2026 Company Profile & Team - Tracxn" ("Founder" OR "CEO" OR "CTO" OR "VP" OR "Head of" OR "Director" OR "Manager" OR "Engineer" OR "HR" OR "Recruiter")': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:29:04,772] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com/in "Top 4 Apxor Alternatives in 2026 - Plotline" ("Founder" OR "CEO" OR "CTO" OR "VP" OR "Head of" OR "Director" OR "Manager" OR "Engineer" OR "HR" OR "Recruiter")': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:30:59,625] INFO - leads_pipeline: Searching LinkedIn for employees at: Apxor
+[2026-06-23 02:31:00,700] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com "Apxor"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:01,476] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com Apxor founder CEO CTO': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:02,981] INFO - leads_pipeline: Found 1 employees at Apxor on LinkedIn
+[2026-06-23 02:31:08,194] INFO - leads_pipeline: Searching LinkedIn for employees at: Apxor Reviews 2026
+[2026-06-23 02:31:08,917] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com "Apxor Reviews 2026"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:09,753] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com Apxor Reviews 2026 founder CEO CTO': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:11,448] WARNING - leads_pipeline: No employees found on LinkedIn for Apxor Reviews 2026
+[2026-06-23 02:31:16,533] INFO - leads_pipeline: Searching LinkedIn for employees at: Apxor
+[2026-06-23 02:31:17,527] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com "Apxor"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:18,294] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com Apxor founder CEO CTO': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:20,034] INFO - leads_pipeline: Found 1 employees at Apxor on LinkedIn
+[2026-06-23 02:31:26,111] INFO - leads_pipeline: Searching LinkedIn for employees at: Top 4 Apxor Alternatives in 2026
+[2026-06-23 02:31:26,809] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com "Top 4 Apxor Alternatives in 2026"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:27,564] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com Top 4 Apxor Alternatives in 2026 founder CEO CTO': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:31:29,402] WARNING - leads_pipeline: No employees found on LinkedIn for Top 4 Apxor Alternatives in 2026
+[2026-06-23 02:32:20,566] INFO - leads_pipeline: Searching for employees at: Apxor
+[2026-06-23 02:32:27,939] INFO - leads_pipeline: Found 1 LinkedIn employees at Apxor
+[2026-06-23 02:32:34,059] INFO - leads_pipeline: Searching for employees at: Apxor Reviews 2026
+[2026-06-23 02:32:41,918] INFO - leads_pipeline: No employees found on LinkedIn for Apxor Reviews 2026
+[2026-06-23 02:32:47,344] INFO - leads_pipeline: Searching for employees at: Apxor
+[2026-06-23 02:32:54,894] INFO - leads_pipeline: Found 1 LinkedIn employees at Apxor
+[2026-06-23 02:32:59,723] INFO - leads_pipeline: Searching for employees at: Top 4 Apxor Alternatives in 2026
+[2026-06-23 02:33:07,236] INFO - leads_pipeline: No employees found on LinkedIn for Top 4 Apxor Alternatives in 2026
+[2026-06-23 02:39:21,422] INFO - leads_pipeline:   Found 39 search results. Analyzing with LLM...
+[2026-06-23 02:39:47,566] INFO - leads_pipeline:   Found 40 search results. Analyzing with LLM...
+[2026-06-23 02:40:12,277] INFO - leads_pipeline:   Found 39 search results. Analyzing with LLM...
+[2026-06-23 02:40:29,980] INFO - leads_pipeline:   Found 40 search results. Analyzing with LLM...
+[2026-06-23 02:46:58,135] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:47:21,378] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:47:27,895] INFO - leads_pipeline: Searching for REAL employees at: Apxor
+[2026-06-23 02:47:35,462] INFO - leads_pipeline:   Found 39 search results. Analyzing with LLM...
+[2026-06-23 02:47:48,482] INFO - leads_pipeline:   [LLM] Extracted 4 employees
+[2026-06-23 02:47:48,482] INFO - leads_pipeline: [OK] Found 4 REAL employees at Apxor
+[2026-06-23 02:49:14,376] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:49:20,305] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:49:21,061] ERROR - leads_pipeline: Serper search error for query 'site:linkedin.com/company/apxor employees': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:49:22,046] ERROR - leads_pipeline: Serper search error for query 'Apxor site:linkedin.com/company/ employees': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:49:25,124] ERROR - leads_pipeline: Serper search error for query '"Apxor" site:linkedin.com employee': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+[2026-06-23 02:49:25,426] INFO - leads_pipeline: [OK] Found 3 REAL LinkedIn employees at Apxor
+[2026-06-23 02:49:58,670] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:50:04,549] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:50:18,241] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 02:50:18,243] INFO - leads_pipeline: [OK] Found 7 REAL LinkedIn employees
+[2026-06-23 02:53:34,804] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:53:40,581] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:53:54,720] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 02:53:54,722] INFO - leads_pipeline: [OK] Found 8 REAL LinkedIn employees
+[2026-06-23 02:56:22,839] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:56:28,369] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:56:41,551] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 02:56:41,553] INFO - leads_pipeline: [OK] Found 9 REAL LinkedIn employees
+[2026-06-23 02:58:54,744] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:59:00,356] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:59:14,091] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 02:59:14,096] ERROR - leads_pipeline: Error extracting employees: name 'name' is not defined
+[2026-06-23 02:59:30,169] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 02:59:36,339] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 02:59:51,239] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 02:59:51,240] INFO - leads_pipeline: [OK] Found 2 REAL LinkedIn employees
+[2026-06-23 03:00:36,426] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 03:00:41,481] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Apxor
+[2026-06-23 03:00:54,142] INFO - leads_pipeline:   Total search results: 68
+[2026-06-23 03:00:54,144] INFO - leads_pipeline: [OK] Found 3 REAL LinkedIn employees
+[2026-06-23 03:02:24,890] INFO - leads_pipeline: Loaded 1 companies from input_companies.csv
+[2026-06-23 03:02:30,333] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Deepta AI
+[2026-06-23 03:02:42,005] INFO - leads_pipeline:   Total search results: 70
+[2026-06-23 03:02:42,007] WARNING - leads_pipeline: [WARN] No LinkedIn employees found
+[2026-06-23 03:04:07,944] INFO - leads_pipeline: [LINKEDIN] Fetching REAL employee data for: Deepta AI
+[2026-06-23 03:04:20,264] INFO - leads_pipeline:   Total search results: 70
+[2026-06-23 03:04:20,270] WARNING - leads_pipeline: [WARN] No LinkedIn employees found
