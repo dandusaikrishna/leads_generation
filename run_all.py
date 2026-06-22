@@ -2,23 +2,64 @@
 UNIFIED LEADS RUNNER - STARTUP FOCUS
 Focuses on Indian Startups (NOT MNCs)
 Extracts HR and Founder emails
-Outputs: 
-  1. output/companies.json - Startup data with HR & Founder emails
-  2. output/emails_scored.txt - HR/Founder emails sorted by quality score
+Features:
+  - Deduplication: Skips companies already discovered
+  - Versioned Output: Creates new dated files each run
+  - Incremental: Builds on previous discoveries
 """
 
 import json
 import time
 import re
 from datetime import datetime
-from utils import serper_search, logger
-from models import Company, PublicEmail
-from config import ROLE_SCORES
+from utils.utils import serper_search, logger
+from modules.models import Company, PublicEmail
+from modules.config import ROLE_SCORES
 import os
+from pathlib import Path
 
 # Create output folder
 OUTPUT_DIR = os.path.join(os.getcwd(), "output")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LOAD EXISTING DATA FOR DEDUPLICATION
+# ─────────────────────────────────────────────────────────────────────────────
+
+def load_existing_companies():
+    """Load existing companies to avoid duplicates."""
+    existing = set()
+    base_file = os.path.join(OUTPUT_DIR, "companies.json")
+    
+    if os.path.exists(base_file):
+        try:
+            with open(base_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for company in data:
+                    existing.add(company.get("company_name", "").lower())
+            print(f"[DEDUP] Loaded {len(existing)} existing companies")
+        except:
+            pass
+    
+    return existing
+
+def load_existing_emails():
+    """Load existing emails to avoid duplicates."""
+    existing = set()
+    base_file = os.path.join(OUTPUT_DIR, "emails_scored.txt")
+    
+    if os.path.exists(base_file):
+        try:
+            with open(base_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    if "@" in line:
+                        email = line.split()[0].strip()
+                        if "@" in email:
+                            existing.add(email.lower())
+        except:
+            pass
+    
+    return existing
 
 # Common HR and founder names to generate patterns
 HR_TITLES = ["HR", "HR Manager", "Recruiter", "Talent Acquisition", "People Operations", "Head of HR"]
@@ -60,17 +101,17 @@ def is_startup(company_name):
 # PHASE 1: DISCOVER STARTUPS (NOT MNCs)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def discover_companies_unified():
-    """Discover STARTUP companies using direct searches."""
+def discover_companies_unified(existing_companies):
+    """Discover STARTUP companies using direct searches, skip existing ones."""
     
     print("\n[PHASE 1] Discovering Indian Startups...")
     print("="*70)
+    print(f"Skipping {len(existing_companies)} already discovered companies\n")
     
     companies_raw = []
     
     # Startup-specific searches
     searches = [
-        "software Engineere"
         "Indian software startups Hyderabad hiring",
         "tech startup companies Bangalore engineers",
         "SaaS startup Pune India recruiting",
@@ -97,12 +138,14 @@ def discover_companies_unified():
                         if url and len(title) > 5 and is_startup(title):
                             # Exclude job listing pages
                             if not any(x in url.lower() for x in ["linkedin", "indeed", "naukri", "glassdoor", "careercup"]):
-                                companies_raw.append({
-                                    "name": title[:80],
-                                    "website": url,
-                                    "source": search_query,
-                                    "discovered": datetime.now().isoformat()
-                                })
+                                # SKIP if already exists
+                                if title.lower() not in existing_companies:
+                                    companies_raw.append({
+                                        "name": title[:80],
+                                        "website": url,
+                                        "source": search_query,
+                                        "discovered": datetime.now().isoformat()
+                                    })
                 
                 print(f" [OK]")
             else:
@@ -121,8 +164,8 @@ def discover_companies_unified():
         if key not in unique and is_startup(c["name"]):
             unique[key] = c
     
-    companies_list = list(unique.values())[:50]  # Limit to 50 startups
-    print(f"\n✓ Found {len(companies_list)} Indian startups\n")
+    companies_list = list(unique.values())[:50]  # Limit to 50 new startups
+    print(f"\n✓ Found {len(companies_list)} NEW Indian startups (added to existing)\n")
     
     return companies_list
 
@@ -437,31 +480,56 @@ def build_company_models(companies, emails_scored):
 # ─────────────────────────────────────────────────────────────────────────────
 
 def export_companies_json(companies_models):
-    """Export companies to JSON."""
+    """Export companies to versioned JSON file."""
     
-    output_file = os.path.join(OUTPUT_DIR, "companies.json")
+    # Create timestamped filename
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+    output_file = os.path.join(OUTPUT_DIR, f"companies_{timestamp}.json")
     
     data = [company.to_dict() for company in companies_models]
     
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
-    print(f"  ✓ companies.json ({len(companies_models)} companies)")
+    print(f"  ✓ companies_{timestamp}.json ({len(companies_models)} companies)")
     
-    return output_file
+    # Also update master file
+    master_file = os.path.join(OUTPUT_DIR, "companies.json")
+    if os.path.exists(master_file):
+        try:
+            with open(master_file, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+        except:
+            existing_data = []
+    else:
+        existing_data = []
+    
+    # Merge: add new companies, skip existing
+    existing_names = {c.get("company_name", "").lower() for c in existing_data}
+    for company in data:
+        if company.get("company_name", "").lower() not in existing_names:
+            existing_data.append(company)
+    
+    # Save merged master file
+    with open(master_file, "w", encoding="utf-8") as f:
+        json.dump(existing_data, f, indent=2, ensure_ascii=False)
+    
+    return output_file, master_file
 
 
 def export_emails_txt(emails_scored):
-    """Export scored emails to TXT."""
+    """Export scored emails to versioned TXT file."""
     
-    output_file = os.path.join(OUTPUT_DIR, "emails_scored.txt")
+    # Create timestamped filename
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+    output_file = os.path.join(OUTPUT_DIR, f"emails_scored_{timestamp}.txt")
     
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("="*90 + "\n")
-        f.write("HR & FOUNDER EMAIL LEADS - INDIAN STARTUPS\n")
+        f.write("HR & FOUNDER EMAIL LEADS - INDIAN STARTUPS (NEW)\n")
         f.write("="*90 + "\n")
         f.write(f"Generated: {datetime.now().isoformat()}\n")
-        f.write(f"Total Emails: {len(emails_scored)}\n")
+        f.write(f"Total New Emails: {len(emails_scored)}\n")
         f.write("="*90 + "\n\n")
         
         # Summary by quality
@@ -496,7 +564,30 @@ def export_emails_txt(emails_scored):
                 f.write(f"  Website:  {email_data['website']}\n")
                 f.write(f"  Score:    {email_data['score']}/100 ({email_data['quality']})\n")
     
-    print(f"  ✓ emails_scored.txt ({len(emails_scored)} emails)")
+    print(f"  ✓ emails_scored_{timestamp}.txt ({len(emails_scored)} new emails)")
+    
+    # Also append to master file
+    master_file = os.path.join(OUTPUT_DIR, "emails_scored.txt")
+    existing_emails = load_existing_emails()
+    
+    new_emails = [e for e in emails_scored if e["email"].lower() not in existing_emails]
+    
+    if new_emails:
+        with open(master_file, "a", encoding="utf-8") as f:
+            if os.path.getsize(master_file) > 100:
+                f.write("\n" + "="*90 + "\n")
+                f.write(f"BATCH UPDATE - {timestamp}\n")
+                f.write("="*90 + "\n\n")
+            
+            for email_data in new_emails:
+                type_badge = "[FOUND]" if email_data["type"] == "found" else "[GENERATED]"
+                f.write(f"\n{type_badge} {email_data['role']}\n")
+                f.write(f"  Email:    {email_data['email']}\n")
+                f.write(f"  Company:  {email_data['company']}\n")
+                f.write(f"  Website:  {email_data['website']}\n")
+                f.write(f"  Score:    {email_data['score']}/100 ({email_data['quality']})\n")
+    
+    return output_file, master_file
     
     return output_file
 
@@ -508,17 +599,21 @@ def export_emails_txt(emails_scored):
 def main():
     """Main unified execution."""
     
-    print(f"""
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                    STARTUP LEADS RUNNER - ADVANCED                           ║
-║           HR & Founder Emails from Indian Startups Only                      ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+    print("""
+========================================================================
+              STARTUP LEADS RUNNER - ADVANCED                
+         HR & Founder Emails from Indian Startups Only                
+========================================================================
     """)
     
     start_time = datetime.now()
     
-    # Phase 1: Discover startups
-    companies = discover_companies_unified()
+    # Load existing data for deduplication
+    existing_companies = load_existing_companies()
+    existing_emails = load_existing_emails()
+    
+    # Phase 1: Discover startups (skip existing ones)
+    companies = discover_companies_unified(existing_companies)
     
     if not companies:
         print("\nNo startups found. Please try again.\n")
@@ -536,12 +631,12 @@ def main():
     # Phase 5: Export
     print("[PHASE 5] Exporting data...")
     print("="*70)
-    companies_file = export_companies_json(companies_models)
-    emails_file = export_emails_txt(emails_scored)
+    companies_versioned, companies_master = export_companies_json(companies_models)
+    emails_versioned, emails_master = export_emails_txt(emails_scored)
     
     # Summary
     print("\n" + "="*70)
-    print("✅ EXECUTION COMPLETE")
+    print("✓ EXECUTION COMPLETE")
     print("="*70)
     
     elapsed = (datetime.now() - start_time).total_seconds()
@@ -553,8 +648,8 @@ def main():
     founder_emails = [e for e in emails_scored if e["role"] == "Founder/CEO"]
     
     print(f"""
-📊 SUMMARY - INDIAN STARTUPS ONLY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY - INDIAN STARTUPS ONLY
+========================================================================
   Startups Discovered:       {len(companies):>3}
   Total Emails (Found+Gen):  {len(emails_scored):>3}
   Found from Web:            {len(found_emails):>3}
@@ -562,8 +657,8 @@ def main():
   High Quality Emails:       {len(high_quality):>3}
   Processing Time:           {elapsed:.1f}s
 
-📧 EMAIL BREAKDOWN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EMAIL BREAKDOWN
+========================================================================
   HR Emails:                 {len(hr_emails):>3}
   Founder/CEO Emails:        {len(founder_emails):>3}
   
@@ -571,12 +666,14 @@ def main():
   Medium Quality (60-74):    {len([e for e in emails_scored if 60 <= e['score'] < 75]):>3}
   Low Quality (0-59):        {len([e for e in emails_scored if e['score'] < 60]):>3}
 
-📁 OUTPUT FOLDER: ./output/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  1. companies.json      - Startup data with HR & Founder contacts
-  2. emails_scored.txt   - All emails sorted by quality score
+OUTPUT FILES
+========================================================================
+  Versioned companies:       {companies_versioned}
+  Master companies:          {companies_master}
+  Versioned emails:          {emails_versioned}
+  Master emails:             {emails_master}
 
-✨ Ready to use! Check ./output/ folder.
+Check ./output/ folder for detailed results.
     """)
 
 

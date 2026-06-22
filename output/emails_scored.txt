@@ -1,36 +1,48 @@
 ==========================================================================================
 HR & FOUNDER EMAIL LEADS - INDIAN STARTUPS
 ==========================================================================================
-Generated: 2026-06-23T00:49:19.158350
-Total Emails: 620
+Generated: 2026-06-23T01:20:10.986017
+Total Emails: 633
 ==========================================================================================
 
-HIGH QUALITY EMAILS (428 total)
-Found: 6 | Generated: 422
+HIGH QUALITY EMAILS (433 total)
+Found: 8 | Generated: 425
 ------------------------------------------------------------------------------------------
 
 [FOUND] HR
-  Email:    hr@raininfotech.com
-  Company:  Top Blockchain Development Companies in India - 2026 Reviews
-  Website:  https://www.goodfirms.co/companies/blockchain-development-services/india
+  Email:    hr@wemakescholars.com
+  Company:  13 Fintech Companies in Hyderabad You Should Know
+  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
   Score:    100/100 (HIGH)
 
-[FOUND] Founder/CEO
-  Email:    nikunj@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
+[FOUND] HR
+  Email:    hr@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
+  Score:    100/100 (HIGH)
+
+[FOUND] HR
+  Email:    client_needs@hireresolve.de
+  Company:  Hire Blockchain Developers from India: Compare Companies
+  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
   Score:    95/100 (HIGH)
 
-[FOUND] Founder/CEO
-  Email:    contact@scnsoft.com
-  Company:  Top Blockchain Development Companies in India - 2026 Reviews
-  Website:  https://www.goodfirms.co/companies/blockchain-development-services/india
+[FOUND] HR
+  Email:    candidate_needs@hireresolve.de
+  Company:  Hire Blockchain Developers from India: Compare Companies
+  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
   Score:    95/100 (HIGH)
 
 [FOUND] Founder/CEO
   Email:    alex.z@unicsoft.com
   Company:  Blockchain Development Company India | Cryptocurrency ...
   Website:  http://tokyotechie.com/
+  Score:    95/100 (HIGH)
+
+[FOUND] HR
+  Email:    info@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    95/100 (HIGH)
 
 [FOUND] Founder/CEO
@@ -149,380 +161,308 @@ Found: 6 | Generated: 422
 
 [GENERATED] HR
   Email:    priya.hr@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.priya@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    rajesh.hr@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.rajesh@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    amit.hr@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.amit@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hire@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    recruitment@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    careers@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    talent@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    jobs@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.shah@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.patel@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.kumar@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    ceo@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    priya.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.shah@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.patel@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.kumar@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    ceo@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    priya.hr@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    priya.hr@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.priya@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    rajesh.hr@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.rajesh@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    amit.hr@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.amit@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hire@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    recruitment@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    careers@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    talent@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    jobs@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.shah@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.patel@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.kumar@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    ceo@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
@@ -832,6 +772,108 @@ Found: 6 | Generated: 422
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
+  Email:    priya.hr@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
   Email:    priya.hr@topstartups.io
   Company:  343 Startup Jobs in Pune (June 2026) - Top Startups
   Website:  https://topstartups.io/jobs/?job_location=Pune
@@ -934,6 +976,108 @@ Found: 6 | Generated: 422
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
+  Email:    priya.hr@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
   Email:    priya.hr@builtinpune.in
   Company:  13 SaaS Companies in Pune to Know
   Website:  https://builtinpune.in/articles/saas-companies-in-pune
@@ -1007,108 +1151,6 @@ Found: 6 | Generated: 422
 
 [GENERATED] HR
   Email:    priya.hr@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.shah@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.patel@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.kumar@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    ceo@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    priya.hr@ycombinator.com
   Company:  Jobs at Y Combinator startups in India
   Website:  https://www.ycombinator.com/jobs/location/india
   Score:    80/100 (HIGH)
@@ -1207,210 +1249,210 @@ Found: 6 | Generated: 422
   Email:    ceo@ycombinator.com
   Company:  Jobs at Y Combinator startups in India
   Website:  https://www.ycombinator.com/jobs/location/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    priya.hr@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.priya@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    rajesh.hr@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.rajesh@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    amit.hr@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr.amit@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hr@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    hire@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    recruitment@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    careers@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    talent@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
   Email:    jobs@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.shah@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.patel@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder.kumar@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    founder@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
   Email:    ceo@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    priya.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.shah@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.patel@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.kumar@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    ceo@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
@@ -1513,78 +1555,6 @@ Found: 6 | Generated: 422
   Email:    ceo@builtin.com
   Company:  Top Hyderabad Fintech Companies 2026 | Built In
   Website:  https://builtin.com/companies/location/as/india/hyderabad/type/fintech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    priya.hr@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
   Score:    80/100 (HIGH)
 
 [GENERATED] Founder/CEO
@@ -1617,78 +1587,6 @@ Found: 6 | Generated: 422
   Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    priya.hr@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    80/100 (HIGH)
-
 [GENERATED] Founder/CEO
   Email:    founder.shah@vrinsofts.com
   Company:  Hire Blockchain Developers from India: Compare Companies
@@ -1717,6 +1615,180 @@ Found: 6 | Generated: 422
   Email:    ceo@vrinsofts.com
   Company:  Hire Blockchain Developers from India: Compare Companies
   Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
@@ -1821,76 +1893,34 @@ Found: 6 | Generated: 422
   Website:  https://cutshort.io/companies/blockchain
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    priya.hr@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    founder.shah@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    hr.priya@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    founder.patel@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    rajesh.hr@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    hr.rajesh@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    founder@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    80/100 (HIGH)
 
-[GENERATED] HR
-  Email:    amit.hr@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    ceo@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
@@ -2068,108 +2098,6 @@ Found: 6 | Generated: 422
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
-  Email:    priya.hr@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.priya@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    rajesh.hr@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.rajesh@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    amit.hr@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr.amit@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hr@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    hire@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    recruitment@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    careers@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    talent@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
-  Email:    jobs@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.shah@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.patel@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder.kumar@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    founder@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] Founder/CEO
-  Email:    ceo@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    80/100 (HIGH)
-
-[GENERATED] HR
   Email:    priya.hr@edtechhub.org
   Company:  Jobs and Opportunities with EdTech Hub
   Website:  https://edtechhub.org/opportunities/
@@ -2269,6 +2197,108 @@ Found: 6 | Generated: 422
   Email:    ceo@edtechhub.org
   Company:  Jobs and Opportunities with EdTech Hub
   Website:  https://edtechhub.org/opportunities/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
   Score:    80/100 (HIGH)
 
 [GENERATED] HR
@@ -2579,8 +2609,8 @@ Found: 6 | Generated: 422
 
 
 ==========================================================================================
-MEDIUM QUALITY EMAILS (192 total)
-Found: 0 | Generated: 192
+MEDIUM QUALITY EMAILS (200 total)
+Found: 0 | Generated: 200
 ------------------------------------------------------------------------------------------
 
 [GENERATED] HR
@@ -2633,170 +2663,146 @@ Found: 0 | Generated: 192
 
 [GENERATED] HR
   Email:    priya@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    rajesh@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    amit@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    hiring@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    shah@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    patel@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    kumar@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    contact@ycombinator.com
-  Company:  Jobs at Y Combinator startups in Hyderabad
-  Website:  https://www.ycombinator.com/jobs/location/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    priya@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    shah@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    patel@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    kumar@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    contact@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india/hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    priya@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@cutshort.io
-  Company:  50+ Startup Jobs in India - Cutshort
-  Website:  https://cutshort.io/jobs/startup-jobs
+  Company:  Software Engineer jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/role/software-engineer/hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    priya@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    rajesh@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    amit@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    hiring@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    shah@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    patel@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    kumar@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    contact@wellfound.com
-  Company:  Tech & Startup Jobs in Hyderabad - Wellfound
-  Website:  https://wellfound.com/location/hyderabad
+  Company:  Software Engineer Jobs in India - 2026 - Wellfound
+  Website:  https://wellfound.com/role/l/software-engineer/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@instahyre.com
+  Company:  Software Engineering jobs in Hyderabad - Instahyre
+  Website:  https://www.instahyre.com/software-engineering-jobs-in-hyderabad/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
@@ -2944,6 +2950,54 @@ Found: 0 | Generated: 192
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
+  Email:    priya@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@saas.group
+  Company:  Careers at saas.group
+  Website:  https://saas.group/careers/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
   Email:    priya@topstartups.io
   Company:  343 Startup Jobs in Pune (June 2026) - Top Startups
   Website:  https://topstartups.io/jobs/?job_location=Pune
@@ -2992,6 +3046,54 @@ Found: 0 | Generated: 192
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
+  Email:    priya@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@startup.jobs
+  Company:  SaaS Jobs (June 2026) - Startup Jobs
+  Website:  https://startup.jobs/saas-jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
   Email:    priya@builtinpune.in
   Company:  13 SaaS Companies in Pune to Know
   Website:  https://builtinpune.in/articles/saas-companies-in-pune
@@ -3017,54 +3119,6 @@ Found: 0 | Generated: 192
 
 [GENERATED] HR
   Email:    priya@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    shah@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    patel@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    kumar@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    contact@ycombinator.com
-  Company:  Recruiting & HR jobs at Y Combinator startups in Pune
-  Website:  https://www.ycombinator.com/jobs/role/recruiting-hr/pune
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    priya@ycombinator.com
   Company:  Jobs at Y Combinator startups in India
   Website:  https://www.ycombinator.com/jobs/location/india
   Score:    65/100 (MEDIUM)
@@ -3109,102 +3163,102 @@ Found: 0 | Generated: 192
   Email:    contact@ycombinator.com
   Company:  Jobs at Y Combinator startups in India
   Website:  https://www.ycombinator.com/jobs/location/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    priya@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    rajesh@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    amit@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
   Email:    hiring@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    shah@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    patel@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    kumar@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
   Email:    contact@reddit.com
-  Company:  How can I hire developers for my first AI startup? - Reddit
-  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    priya@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    shah@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    patel@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    kumar@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    contact@builtin.com
-  Company:  Best Tech Jobs & Startup Jobs in India 2026 | Built In
-  Website:  https://builtin.com/jobs/as/india
+  Company:  Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit
+  Website:  https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
@@ -3253,30 +3307,6 @@ Found: 0 | Generated: 192
   Email:    contact@builtin.com
   Company:  Top Hyderabad Fintech Companies 2026 | Built In
   Website:  https://builtin.com/companies/location/as/india/hyderabad/type/fintech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    priya@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@builtinhyderabad.in
-  Company:  13 Fintech Companies in Hyderabad You Should Know
-  Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
   Score:    65/100 (MEDIUM)
 
 [GENERATED] Founder/CEO
@@ -3303,30 +3333,6 @@ Found: 0 | Generated: 192
   Website:  https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad
   Score:    65/100 (MEDIUM)
 
-[GENERATED] HR
-  Email:    priya@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@vrinsofts.com
-  Company:  Hire Blockchain Developers from India: Compare Companies
-  Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
-  Score:    65/100 (MEDIUM)
-
 [GENERATED] Founder/CEO
   Email:    shah@vrinsofts.com
   Company:  Hire Blockchain Developers from India: Compare Companies
@@ -3349,6 +3355,78 @@ Found: 0 | Generated: 192
   Email:    contact@vrinsofts.com
   Company:  Hire Blockchain Developers from India: Compare Companies
   Website:  https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@tokyotechie.com
+  Company:  Blockchain Development Company India | Cryptocurrency ...
+  Website:  http://tokyotechie.com/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@webgentechnologies.com
+  Company:  Blockchain Development Company in Kolkata, India
+  Website:  https://www.webgentechnologies.com/blockchain-development-company/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
@@ -3399,28 +3477,28 @@ Found: 0 | Generated: 192
   Website:  https://cutshort.io/companies/blockchain
   Score:    65/100 (MEDIUM)
 
-[GENERATED] HR
-  Email:    priya@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    shah@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    65/100 (MEDIUM)
 
-[GENERATED] HR
-  Email:    rajesh@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    patel@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    65/100 (MEDIUM)
 
-[GENERATED] HR
-  Email:    amit@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    kumar@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    65/100 (MEDIUM)
 
-[GENERATED] HR
-  Email:    hiring@tokyotechie.com
-  Company:  Blockchain Development Company India | Cryptocurrency ...
-  Website:  http://tokyotechie.com/
+[GENERATED] Founder/CEO
+  Email:    contact@antier.com
+  Company:  Top 10 Blockchain Development Companies in India - Antier
+  Website:  https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
@@ -3496,54 +3574,6 @@ Found: 0 | Generated: 192
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
-  Email:    priya@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    rajesh@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    amit@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
-  Email:    hiring@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    shah@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    patel@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    kumar@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] Founder/CEO
-  Email:    contact@builtin.com
-  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
-  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
-  Score:    65/100 (MEDIUM)
-
-[GENERATED] HR
   Email:    priya@edtechhub.org
   Company:  Jobs and Opportunities with EdTech Hub
   Website:  https://edtechhub.org/opportunities/
@@ -3589,6 +3619,54 @@ Found: 0 | Generated: 192
   Email:    contact@edtechhub.org
   Company:  Jobs and Opportunities with EdTech Hub
   Website:  https://edtechhub.org/opportunities/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@builtin.com
+  Company:  Top Edtech Companies Hiring Remote 2026 | Built In
+  Website:  https://builtin.com/companies/hiring/remote/type/edtech-companies
   Score:    65/100 (MEDIUM)
 
 [GENERATED] HR
@@ -3733,4 +3811,759 @@ Found: 0 | Generated: 192
   Email:    contact@leadsquared.com
   Company:  Top 11 HealthTech Startups In India - LeadSquared
   Website:  https://www.leadsquared.com/industries/healthcare/healthtech-startups-in-india/
+  Score:    65/100 (MEDIUM)
+
+==========================================================================================
+BATCH UPDATE - 2026-06-23_012656
+==========================================================================================
+
+
+[GENERATED] HR
+  Email:    priya.hr@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya.hr@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.priya@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    rajesh.hr@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.rajesh@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    amit.hr@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr.amit@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hr@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    hire@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    recruitment@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    careers@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    talent@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    jobs@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.shah@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.patel@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder.kumar@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    founder@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] Founder/CEO
+  Email:    ceo@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    80/100 (HIGH)
+
+[GENERATED] HR
+  Email:    priya@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@ycombinator.com
+  Company:  Jobs at Y Combinator startups in Hyderabad
+  Website:  https://www.ycombinator.com/jobs/location/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@builtin.com
+  Company:  Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In
+  Website:  https://builtin.com/jobs/as/india/hyderabad
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@startupblink.com
+  Company:  1258 Top startups in Hyderabad for June 2026 - StartupBlink
+  Website:  https://www.startupblink.com/top-startups/hyderabad-in
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@saas-talent.com
+  Company:  Explore Top SaaS Jobs & Career Opportunities
+  Website:  https://www.saas-talent.com/jobs
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    priya@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    rajesh@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    amit@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] HR
+  Email:    hiring@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    shah@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    patel@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    kumar@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
+  Score:    65/100 (MEDIUM)
+
+[GENERATED] Founder/CEO
+  Email:    contact@reddit.com
+  Company:  How can I hire developers for my first AI startup? - Reddit
+  Website:  https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/
   Score:    65/100 (MEDIUM)

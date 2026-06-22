@@ -163,13 +163,13 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.118087",
-    "last_updated": "2026-06-22T19:19:19.118087",
+    "discovered_at": "2026-06-22T19:50:10.934491",
+    "last_updated": "2026-06-22T19:50:10.934491",
     "source_urls": []
   },
   {
-    "company_name": "Jobs at Y Combinator startups in Hyderabad",
-    "website": "https://www.ycombinator.com/jobs/location/hyderabad",
+    "company_name": "Software Engineer jobs at Y Combinator startups in Hyderabad",
+    "website": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
     "linkedin_url": null,
     "industry": null,
     "company_size": null,
@@ -179,151 +179,151 @@
       {
         "email": "priya.hr@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "hr.priya@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "rajesh.hr@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "hr.rajesh@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "amit.hr@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "hr.amit@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "hr@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "hire@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "recruitment@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "careers@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "talent@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "jobs@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "founder.shah@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "founder.patel@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "founder.kumar@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "founder@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "ceo@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 80
       },
       {
         "email": "priya@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "rajesh@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "amit@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "hiring@ycombinator.com",
         "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "shah@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "patel@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "kumar@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       },
       {
         "email": "contact@ycombinator.com",
         "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "source_url": "https://www.ycombinator.com/jobs/role/software-engineer/hyderabad",
         "confidence_score": 65
       }
     ],
@@ -331,301 +331,13 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.118087",
-    "last_updated": "2026-06-22T19:19:19.118087",
+    "discovered_at": "2026-06-22T19:50:10.934491",
+    "last_updated": "2026-06-22T19:50:10.934491",
     "source_urls": []
   },
   {
-    "company_name": "Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In",
-    "website": "https://builtin.com/jobs/as/india/hyderabad",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "priya.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.shah@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.patel@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.kumar@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "ceo@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "shah@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "patel@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "kumar@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "contact@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
-        "confidence_score": 65
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.118087",
-    "last_updated": "2026-06-22T19:19:19.118087",
-    "source_urls": []
-  },
-  {
-    "company_name": "50+ Startup Jobs in India - Cutshort",
-    "website": "https://cutshort.io/jobs/startup-jobs",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "nikunj@cutshort.io",
-        "category": "Founder/CEO",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 95
-      },
-      {
-        "email": "priya.hr@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@cutshort.io",
-        "category": "HR",
-        "source_url": "https://cutshort.io/jobs/startup-jobs",
-        "confidence_score": 65
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.119094",
-    "last_updated": "2026-06-22T19:19:19.119094",
-    "source_urls": []
-  },
-  {
-    "company_name": "Tech & Startup Jobs in Hyderabad - Wellfound",
-    "website": "https://wellfound.com/location/hyderabad",
+    "company_name": "Software Engineer Jobs in India - 2026 - Wellfound",
+    "website": "https://wellfound.com/role/l/software-engineer/india",
     "linkedin_url": null,
     "industry": null,
     "company_size": null,
@@ -635,151 +347,151 @@
       {
         "email": "priya.hr@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "hr.priya@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "rajesh.hr@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "hr.rajesh@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "amit.hr@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "hr.amit@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "hr@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "hire@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "recruitment@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "careers@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "talent@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "jobs@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "founder.shah@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "founder.patel@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "founder.kumar@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "founder@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "ceo@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 80
       },
       {
         "email": "priya@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "rajesh@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "amit@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "hiring@wellfound.com",
         "category": "HR",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "shah@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "patel@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "kumar@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       },
       {
         "email": "contact@wellfound.com",
         "category": "Founder/CEO",
-        "source_url": "https://wellfound.com/location/hyderabad",
+        "source_url": "https://wellfound.com/role/l/software-engineer/india",
         "confidence_score": 65
       }
     ],
@@ -787,8 +499,176 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.119094",
-    "last_updated": "2026-06-22T19:19:19.119094",
+    "discovered_at": "2026-06-22T19:50:10.934491",
+    "last_updated": "2026-06-22T19:50:10.934491",
+    "source_urls": []
+  },
+  {
+    "company_name": "Software Engineering jobs in Hyderabad - Instahyre",
+    "website": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@instahyre.com",
+        "category": "HR",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@instahyre.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.instahyre.com/software-engineering-jobs-in-hyderabad/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.934491",
+    "last_updated": "2026-06-22T19:50:10.934491",
     "source_urls": []
   },
   {
@@ -955,8 +835,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.121090",
-    "last_updated": "2026-06-22T19:19:19.121090",
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
     "source_urls": []
   },
   {
@@ -1123,8 +1003,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.121090",
-    "last_updated": "2026-06-22T19:19:19.121090",
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
     "source_urls": []
   },
   {
@@ -1291,8 +1171,176 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.121090",
-    "last_updated": "2026-06-22T19:19:19.121090",
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
+    "source_urls": []
+  },
+  {
+    "company_name": "Careers at saas.group",
+    "website": "https://saas.group/careers/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@saas.group",
+        "category": "HR",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@saas.group",
+        "category": "Founder/CEO",
+        "source_url": "https://saas.group/careers/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
     "source_urls": []
   },
   {
@@ -1459,8 +1507,176 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.121090",
-    "last_updated": "2026-06-22T19:19:19.121090",
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
+    "source_urls": []
+  },
+  {
+    "company_name": "SaaS Jobs (June 2026) - Startup Jobs",
+    "website": "https://startup.jobs/saas-jobs",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@startup.jobs",
+        "category": "HR",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@startup.jobs",
+        "category": "Founder/CEO",
+        "source_url": "https://startup.jobs/saas-jobs",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.935489",
     "source_urls": []
   },
   {
@@ -1579,176 +1795,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.122097",
-    "last_updated": "2026-06-22T19:19:19.122097",
-    "source_urls": []
-  },
-  {
-    "company_name": "Recruiting & HR jobs at Y Combinator startups in Pune",
-    "website": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "priya.hr@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.shah@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.patel@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.kumar@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "ceo@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@ycombinator.com",
-        "category": "HR",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "shah@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "patel@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "kumar@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      },
-      {
-        "email": "contact@ycombinator.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.ycombinator.com/jobs/role/recruiting-hr/pune",
-        "confidence_score": 65
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.122097",
-    "last_updated": "2026-06-22T19:19:19.122097",
+    "discovered_at": "2026-06-22T19:50:10.935489",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -1915,176 +1963,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.122097",
-    "last_updated": "2026-06-22T19:19:19.122097",
-    "source_urls": []
-  },
-  {
-    "company_name": "How can I hire developers for my first AI startup? - Reddit",
-    "website": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "priya.hr@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.shah@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.patel@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.kumar@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "ceo@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@reddit.com",
-        "category": "HR",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "shah@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "patel@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "kumar@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      },
-      {
-        "email": "contact@reddit.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
-        "confidence_score": 65
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.123118",
-    "last_updated": "2026-06-22T19:19:19.123118",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -2251,8 +2131,176 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.123118",
-    "last_updated": "2026-06-22T19:19:19.123118",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
+    "source_urls": []
+  },
+  {
+    "company_name": "Anyone hiring for an AI engineer? : r/StartUpIndia - Reddit",
+    "website": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/StartUpIndia/comments/1thjdwn/anyone_hiring_for_an_ai_engineer/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -2419,8 +2467,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.124120",
-    "last_updated": "2026-06-22T19:19:19.124120",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -2433,76 +2481,10 @@
     "jobs": [],
     "public_emails": [
       {
-        "email": "priya.hr@builtinhyderabad.in",
+        "email": "hr@wemakescholars.com",
         "category": "HR",
         "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 80
+        "confidence_score": 100
       },
       {
         "email": "founder.shah@builtinhyderabad.in",
@@ -2535,30 +2517,6 @@
         "confidence_score": 80
       },
       {
-        "email": "priya@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@builtinhyderabad.in",
-        "category": "HR",
-        "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
-        "confidence_score": 65
-      },
-      {
         "email": "shah@builtinhyderabad.in",
         "category": "Founder/CEO",
         "source_url": "https://builtinhyderabad.in/articles/fintech-companies-in-hyderabad",
@@ -2587,38 +2545,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.124120",
-    "last_updated": "2026-06-22T19:19:19.124120",
-    "source_urls": []
-  },
-  {
-    "company_name": "Top Blockchain Development Companies in India - 2026 Reviews",
-    "website": "https://www.goodfirms.co/companies/blockchain-development-services/india",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "hr@raininfotech.com",
-        "category": "HR",
-        "source_url": "https://www.goodfirms.co/companies/blockchain-development-services/india",
-        "confidence_score": 100
-      },
-      {
-        "email": "contact@scnsoft.com",
-        "category": "Founder/CEO",
-        "source_url": "https://www.goodfirms.co/companies/blockchain-development-services/india",
-        "confidence_score": 95
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.124120",
-    "last_updated": "2026-06-22T19:19:19.124120",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -2631,76 +2559,16 @@
     "jobs": [],
     "public_emails": [
       {
-        "email": "priya.hr@vrinsofts.com",
+        "email": "client_needs@hireresolve.de",
         "category": "HR",
         "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
+        "confidence_score": 95
       },
       {
-        "email": "hr.priya@vrinsofts.com",
+        "email": "candidate_needs@hireresolve.de",
         "category": "HR",
         "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 80
+        "confidence_score": 95
       },
       {
         "email": "founder.shah@vrinsofts.com",
@@ -2733,30 +2601,6 @@
         "confidence_score": 80
       },
       {
-        "email": "priya@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@vrinsofts.com",
-        "category": "HR",
-        "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
-        "confidence_score": 65
-      },
-      {
         "email": "shah@vrinsofts.com",
         "category": "Founder/CEO",
         "source_url": "https://www.vrinsofts.com/top-10-companies-to-hire-blockchain-developers-india/",
@@ -2785,8 +2629,296 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.124120",
-    "last_updated": "2026-06-22T19:19:19.124120",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
+    "source_urls": []
+  },
+  {
+    "company_name": "Blockchain Development Company India | Cryptocurrency ...",
+    "website": "http://tokyotechie.com/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "alex.z@unicsoft.com",
+        "category": "Founder/CEO",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 95
+      },
+      {
+        "email": "priya.hr@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@tokyotechie.com",
+        "category": "HR",
+        "source_url": "http://tokyotechie.com/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
+    "source_urls": []
+  },
+  {
+    "company_name": "Blockchain Development Company in Kolkata, India",
+    "website": "https://www.webgentechnologies.com/blockchain-development-company/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@webgentechnologies.com",
+        "category": "HR",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@webgentechnologies.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.webgentechnologies.com/blockchain-development-company/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
@@ -2953,13 +3085,13 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.125117",
-    "last_updated": "2026-06-22T19:19:19.125117",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.936485",
     "source_urls": []
   },
   {
-    "company_name": "Blockchain Development Company India | Cryptocurrency ...",
-    "website": "http://tokyotechie.com/",
+    "company_name": "Top 10 Blockchain Development Companies in India - Antier",
+    "website": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
     "linkedin_url": null,
     "industry": null,
     "company_size": null,
@@ -2967,105 +3099,69 @@
     "jobs": [],
     "public_emails": [
       {
-        "email": "alex.z@unicsoft.com",
-        "category": "Founder/CEO",
-        "source_url": "http://tokyotechie.com/",
+        "email": "hr@antier.com",
+        "category": "HR",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
+        "confidence_score": 100
+      },
+      {
+        "email": "info@antier.com",
+        "category": "HR",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 95
       },
       {
-        "email": "priya.hr@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "founder.shah@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 80
       },
       {
-        "email": "hr.priya@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "founder.patel@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 80
       },
       {
-        "email": "rajesh.hr@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "founder.kumar@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 80
       },
       {
-        "email": "hr.rajesh@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "founder@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 80
       },
       {
-        "email": "amit.hr@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "ceo@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 80
       },
       {
-        "email": "hr.amit@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "shah@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 65
       },
       {
-        "email": "rajesh@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "patel@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 65
       },
       {
-        "email": "amit@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "kumar@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 65
       },
       {
-        "email": "hiring@tokyotechie.com",
-        "category": "HR",
-        "source_url": "http://tokyotechie.com/",
+        "email": "contact@antier.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.antier.com/blogs/top-10-blockchain-development-companies-in-india/",
         "confidence_score": 65
       }
     ],
@@ -3073,8 +3169,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.125117",
-    "last_updated": "2026-06-22T19:19:19.125117",
+    "discovered_at": "2026-06-22T19:50:10.936485",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -3193,8 +3289,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.125117",
-    "last_updated": "2026-06-22T19:19:19.125117",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -3361,176 +3457,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.125117",
-    "last_updated": "2026-06-22T19:19:19.125117",
-    "source_urls": []
-  },
-  {
-    "company_name": "Top Edtech Companies Hiring Remote 2026 | Built In",
-    "website": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-    "linkedin_url": null,
-    "industry": null,
-    "company_size": null,
-    "location": null,
-    "jobs": [],
-    "public_emails": [
-      {
-        "email": "priya.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.priya@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "rajesh.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.rajesh@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "amit.hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr.amit@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "hr@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "hire@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "recruitment@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "careers@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "talent@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "jobs@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.shah@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.patel@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder.kumar@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "founder@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "ceo@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 80
-      },
-      {
-        "email": "priya@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "rajesh@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "amit@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "hiring@builtin.com",
-        "category": "HR",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "shah@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "patel@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "kumar@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      },
-      {
-        "email": "contact@builtin.com",
-        "category": "Founder/CEO",
-        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
-        "confidence_score": 65
-      }
-    ],
-    "contacts": [],
-    "email_patterns": [],
-    "score": 0,
-    "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.126121",
-    "last_updated": "2026-06-22T19:19:19.126121",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -3697,8 +3625,176 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.126121",
-    "last_updated": "2026-06-22T19:19:19.126121",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
+    "source_urls": []
+  },
+  {
+    "company_name": "Top Edtech Companies Hiring Remote 2026 | Built In",
+    "website": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/companies/hiring/remote/type/edtech-companies",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -3865,8 +3961,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.126121",
-    "last_updated": "2026-06-22T19:19:19.126121",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -4033,8 +4129,8 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.127118",
-    "last_updated": "2026-06-22T19:19:19.127118",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
     "source_urls": []
   },
   {
@@ -4201,8 +4297,848 @@
     "email_patterns": [],
     "score": 0,
     "score_breakdown": {},
-    "discovered_at": "2026-06-22T19:19:19.127118",
-    "last_updated": "2026-06-22T19:19:19.127118",
+    "discovered_at": "2026-06-22T19:50:10.937488",
+    "last_updated": "2026-06-22T19:50:10.937488",
+    "source_urls": []
+  },
+  {
+    "company_name": "Jobs at Y Combinator startups in Hyderabad",
+    "website": "https://www.ycombinator.com/jobs/location/hyderabad",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@ycombinator.com",
+        "category": "HR",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@ycombinator.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.ycombinator.com/jobs/location/hyderabad",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:56:56.095525",
+    "last_updated": "2026-06-22T19:56:56.095525",
+    "source_urls": []
+  },
+  {
+    "company_name": "Best Tech Jobs & Startup Jobs in Hyderabad 2026 | Built In",
+    "website": "https://builtin.com/jobs/as/india/hyderabad",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@builtin.com",
+        "category": "HR",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@builtin.com",
+        "category": "Founder/CEO",
+        "source_url": "https://builtin.com/jobs/as/india/hyderabad",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:56:56.095525",
+    "last_updated": "2026-06-22T19:56:56.095525",
+    "source_urls": []
+  },
+  {
+    "company_name": "1258 Top startups in Hyderabad for June 2026 - StartupBlink",
+    "website": "https://www.startupblink.com/top-startups/hyderabad-in",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@startupblink.com",
+        "category": "HR",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@startupblink.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.startupblink.com/top-startups/hyderabad-in",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:56:56.095525",
+    "last_updated": "2026-06-22T19:56:56.095525",
+    "source_urls": []
+  },
+  {
+    "company_name": "Explore Top SaaS Jobs & Career Opportunities",
+    "website": "https://www.saas-talent.com/jobs",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@saas-talent.com",
+        "category": "HR",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@saas-talent.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.saas-talent.com/jobs",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:56:56.095525",
+    "last_updated": "2026-06-22T19:56:56.095525",
+    "source_urls": []
+  },
+  {
+    "company_name": "How can I hire developers for my first AI startup? - Reddit",
+    "website": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "amit.hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.amit@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "hire@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "recruitment@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "careers@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "talent@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "jobs@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "ceo@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "rajesh@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "amit@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "hiring@reddit.com",
+        "category": "HR",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "kumar@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      },
+      {
+        "email": "contact@reddit.com",
+        "category": "Founder/CEO",
+        "source_url": "https://www.reddit.com/r/developersIndia/comments/1n0surq/how_can_i_hire_developers_for_my_first_ai_startup/",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T19:56:56.095525",
+    "last_updated": "2026-06-22T19:56:56.095525",
     "source_urls": []
   }
 ]

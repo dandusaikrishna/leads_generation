@@ -1,0 +1,112 @@
+2026-06-23 00:30:39,681 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:39,685 [INFO] leads_pipeline: Starting India-focused company discovery in: Hyderabad, Bangalore, Pune
+2026-06-23 00:30:39,685 [INFO] leads_pipeline: Discovering companies in Hyderabad...
+2026-06-23 00:30:39,685 [INFO] leads_pipeline: Starting multi-source company discovery for Hyderabad, India...
+2026-06-23 00:30:39,685 [INFO] leads_pipeline: Finding companies on GitHub in Hyderabad, India...
+2026-06-23 00:30:41,492 [ERROR] leads_pipeline: Serper search error for query 'site:github.com/orgs location:"Hyderabad" OR location:"India"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:41,492 [WARNING] leads_pipeline: No GitHub orgs found for Hyderabad
+2026-06-23 00:30:41,997 [INFO] leads_pipeline: Finding companies on Crunchbase in Hyderabad, India...
+2026-06-23 00:30:42,873 [ERROR] leads_pipeline: Serper search error for query 'site:crunchbase.com "Hyderabad" software engineering India': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:42,874 [WARNING] leads_pipeline: No companies found on Crunchbase
+2026-06-23 00:30:43,374 [INFO] leads_pipeline: Finding active companies on Stack Overflow in Hyderabad...
+2026-06-23 00:30:44,310 [ERROR] leads_pipeline: Serper search error for query 'site:stackoverflow.com company "Hyderabad" OR "Bangalore" OR "Hyderabad" OR "Pune"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:44,311 [WARNING] leads_pipeline: No companies found on Stack Overflow
+2026-06-23 00:30:44,311 [INFO] leads_pipeline: Found 0 unique companies across all sources
+2026-06-23 00:30:44,812 [INFO] leads_pipeline: Discovering companies in Bangalore...
+2026-06-23 00:30:44,812 [INFO] leads_pipeline: Starting multi-source company discovery for Bangalore, India...
+2026-06-23 00:30:44,814 [INFO] leads_pipeline: Finding companies on GitHub in Bangalore, India...
+2026-06-23 00:30:45,551 [ERROR] leads_pipeline: Serper search error for query 'site:github.com/orgs location:"Bangalore" OR location:"India"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:45,552 [WARNING] leads_pipeline: No GitHub orgs found for Bangalore
+2026-06-23 00:30:46,054 [INFO] leads_pipeline: Finding companies on Crunchbase in Bangalore, India...
+2026-06-23 00:30:47,025 [ERROR] leads_pipeline: Serper search error for query 'site:crunchbase.com "Bangalore" software engineering India': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:47,025 [WARNING] leads_pipeline: No companies found on Crunchbase
+2026-06-23 00:30:47,527 [INFO] leads_pipeline: Finding active companies on Stack Overflow in Bangalore...
+2026-06-23 00:30:48,303 [ERROR] leads_pipeline: Serper search error for query 'site:stackoverflow.com company "Bangalore" OR "Bangalore" OR "Hyderabad" OR "Pune"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:48,304 [WARNING] leads_pipeline: No companies found on Stack Overflow
+2026-06-23 00:30:48,304 [INFO] leads_pipeline: Found 0 unique companies across all sources
+2026-06-23 00:30:48,806 [INFO] leads_pipeline: Discovering companies in Pune...
+2026-06-23 00:30:48,806 [INFO] leads_pipeline: Starting multi-source company discovery for Pune, India...
+2026-06-23 00:30:48,807 [INFO] leads_pipeline: Finding companies on GitHub in Pune, India...
+2026-06-23 00:30:49,517 [ERROR] leads_pipeline: Serper search error for query 'site:github.com/orgs location:"Pune" OR location:"India"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:49,517 [WARNING] leads_pipeline: No GitHub orgs found for Pune
+2026-06-23 00:30:50,018 [INFO] leads_pipeline: Finding companies on Crunchbase in Pune, India...
+2026-06-23 00:30:50,718 [ERROR] leads_pipeline: Serper search error for query 'site:crunchbase.com "Pune" software engineering India': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:50,719 [WARNING] leads_pipeline: No companies found on Crunchbase
+2026-06-23 00:30:51,220 [INFO] leads_pipeline: Finding active companies on Stack Overflow in Pune...
+2026-06-23 00:30:52,118 [ERROR] leads_pipeline: Serper search error for query 'site:stackoverflow.com company "Pune" OR "Bangalore" OR "Hyderabad" OR "Pune"': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:52,119 [WARNING] leads_pipeline: No companies found on Stack Overflow
+2026-06-23 00:30:52,119 [INFO] leads_pipeline: Found 0 unique companies across all sources
+2026-06-23 00:30:52,620 [INFO] leads_pipeline: Discovering remote-first companies with India presence...
+2026-06-23 00:30:52,620 [INFO] leads_pipeline: Finding remote companies with India presence...
+2026-06-23 00:30:53,295 [ERROR] leads_pipeline: Serper search error for query 'site:linkedin.com/company ("India" OR "Hyderabad" OR "Bangalore") remote engineering': 400 Client Error: Bad Request for url: https://google.serper.dev/search
+2026-06-23 00:30:53,296 [INFO] leads_pipeline: Discovered 0 unique companies in India
+2026-06-23 00:30:53,300 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,305 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,311 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,317 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,319 [INFO] leads_pipeline: Creating outreach list for 0 companies...
+2026-06-23 00:30:53,319 [INFO] leads_pipeline: Created outreach list with 0 companies
+2026-06-23 00:30:53,322 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,351 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:30:53,355 [INFO] leads_pipeline: ============================================================
+2026-06-23 00:32:01,917 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:11,986 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:11,986 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:11,986 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:12,010 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:12,012 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:32:12,043 [INFO] leads_pipeline: 
+============================================================
+2026-06-23 00:36:54,542 [WARNING] leads_pipeline: Error building model for Jobs in Hyderabad - Microsoft Careers: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,542 [WARNING] leads_pipeline: Error building model for Software Engineer jobs in Hyderabad - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,543 [WARNING] leads_pipeline: Error building model for Software Developer jobs in Hyderabad, Telangana - Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,543 [WARNING] leads_pipeline: Error building model for Software Developer Jobs In Hyderabad Secunderabad - Naukri.com: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,543 [WARNING] leads_pipeline: Error building model for Tech & Startup Jobs in Hyderabad - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,544 [WARNING] leads_pipeline: Error building model for Software Engineer jobs in Greater Bengaluru Area - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,544 [WARNING] leads_pipeline: Error building model for Bangalore - Google Careers: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,544 [WARNING] leads_pipeline: Error building model for Best Tech Jobs & Startup Jobs in Bangalore 2026 | Built In: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,544 [WARNING] leads_pipeline: Error building model for Software Engineer Bangalore India Jobs, Employment | Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,544 [WARNING] leads_pipeline: Error building model for Apply to 4308 Software Engineering job openings in Bangalore: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,545 [WARNING] leads_pipeline: Error building model for Best Tech Jobs & Startup Jobs in Pune 2026 | Built In Pune: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,545 [WARNING] leads_pipeline: Error building model for Tech & Startup Jobs in Pune - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,545 [WARNING] leads_pipeline: Error building model for 239 Startup jobs in Pune - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,545 [WARNING] leads_pipeline: Error building model for Pune Startup Jobs: PuneStartups Jobs: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,545 [WARNING] leads_pipeline: Error building model for Startup Jobs in Pune (June 2026): Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,546 [WARNING] leads_pipeline: Error building model for Python Developer Jobs in India - 2026 - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,546 [WARNING] leads_pipeline: Error building model for 1,000+ Python Developer Back End jobs in India - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,546 [WARNING] leads_pipeline: Error building model for Python Job Board: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,547 [WARNING] leads_pipeline: Error building model for Python Jobs, 204059 Python Openings - Naukri.com: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,548 [WARNING] leads_pipeline: Error building model for Python backend jobs in Chennai, Tamil Nadu - Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,549 [WARNING] leads_pipeline: Error building model for Top 10 DevOps Consulting Companies in India (2026 Guide): Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,550 [WARNING] leads_pipeline: Error building model for Cloud Devops Engineer jobs in India - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,550 [WARNING] leads_pipeline: Error building model for Top DevOps Companies in India to Watch in 2026 - ValueCoders: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,551 [WARNING] leads_pipeline: Error building model for Devops Engineer Jobs in India - 2026 - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,551 [WARNING] leads_pipeline: Error building model for Cloud DevOps Engineer Job In Kolkata - Codeclouds career: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,551 [WARNING] leads_pipeline: Error building model for Top Hyderabad Fintech Companies 2026 | Built In: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,552 [WARNING] leads_pipeline: Error building model for List of top FinTech / Payments companies in Hyderabad - Naukri.com: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,552 [WARNING] leads_pipeline: Error building model for 13 Fintech Companies in Hyderabad You Should Know: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,552 [WARNING] leads_pipeline: Error building model for FinTech SaaS in Hyderabad, India - Tracxn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,553 [WARNING] leads_pipeline: Error building model for Hyderabad Fintech Forum | Fintech Companies | Financial Services ...: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,553 [WARNING] leads_pipeline: Error building model for Ai Startup jobs in India - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,554 [WARNING] leads_pipeline: Error building model for Machine Learning Jobs (June 2026) - Startup Jobs: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,554 [WARNING] leads_pipeline: Error building model for Jobs at Y Combinator startups in India: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,554 [WARNING] leads_pipeline: Error building model for 600 Machine Learning Startup Job Vacancies - Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,554 [WARNING] leads_pipeline: Error building model for 21 AI-Driven Startups Hiring Remote Talent - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,554 [WARNING] leads_pipeline: Error building model for 52856 Full Stack Developer Job Vacancies In June 2026 - Naukri.com: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,555 [WARNING] leads_pipeline: Error building model for Full Stack Developer jobs in India - LinkedIn: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,555 [WARNING] leads_pipeline: Error building model for Full Stack Engineer Jobs in India - 2026 - Wellfound: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,555 [WARNING] leads_pipeline: Error building model for Remote Full-Stack Developer Jobs in India - Crossover: Company.__init__() missing 1 required positional argument: 'company_name'
+2026-06-23 00:36:54,556 [WARNING] leads_pipeline: Error building model for Full Stack Developer jobs - Indeed: Company.__init__() missing 1 required positional argument: 'company_name'
