@@ -1,8 +1,6 @@
-"""
-README - Job-Company Discovery & Contact Intelligence Pipeline
+# Startup Leads Generator - Advanced
 
-A comprehensive Python pipeline for discovering companies actively hiring for target
-software engineering roles and collecting publicly available contact information.
+A comprehensive Python system for discovering Indian startups and extracting HR & Founder email addresses with LinkedIn integration.
 
 ## Features
 

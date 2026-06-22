@@ -1,0 +1,134 @@
+[
+  {
+    "company_name": "50+ Startup Jobs in India - Cutshort",
+    "website": "https://cutshort.io/jobs/startup-jobs",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "nikunj@cutshort.io",
+        "category": "Founder/CEO",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 95
+      },
+      {
+        "email": "priya.hr@cutshort.io",
+        "category": "HR",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@cutshort.io",
+        "category": "HR",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@cutshort.io",
+        "category": "HR",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@cutshort.io",
+        "category": "HR",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@cutshort.io",
+        "category": "HR",
+        "source_url": "https://cutshort.io/jobs/startup-jobs",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T20:37:45.925040",
+    "last_updated": "2026-06-22T20:37:45.925040",
+    "source_urls": []
+  },
+  {
+    "company_name": "Tech & Startup Jobs in Hyderabad - Wellfound",
+    "website": "https://wellfound.com/location/hyderabad",
+    "linkedin_url": null,
+    "industry": null,
+    "company_size": null,
+    "location": null,
+    "jobs": [],
+    "public_emails": [
+      {
+        "email": "priya.hr@wellfound.com",
+        "category": "HR",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.priya@wellfound.com",
+        "category": "HR",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "rajesh.hr@wellfound.com",
+        "category": "HR",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "hr.rajesh@wellfound.com",
+        "category": "HR",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.shah@wellfound.com",
+        "category": "Founder/CEO",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.patel@wellfound.com",
+        "category": "Founder/CEO",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "founder.kumar@wellfound.com",
+        "category": "Founder/CEO",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 80
+      },
+      {
+        "email": "priya@wellfound.com",
+        "category": "HR",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "shah@wellfound.com",
+        "category": "Founder/CEO",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 65
+      },
+      {
+        "email": "patel@wellfound.com",
+        "category": "Founder/CEO",
+        "source_url": "https://wellfound.com/location/hyderabad",
+        "confidence_score": 65
+      }
+    ],
+    "contacts": [],
+    "email_patterns": [],
+    "score": 0,
+    "score_breakdown": {},
+    "discovered_at": "2026-06-22T20:37:45.925040",
+    "last_updated": "2026-06-22T20:37:45.925040",
+    "source_urls": []
+  }
+]
